@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add Raspberry Pi 5 Power Monitor",
+        "description": "Reads per-rail voltage and current from the Pi 5's DA9091 PMIC via vcgencmd pmic_read_adc, and surfaces them as HA sensors. Requires HAOS on a Raspberry Pi 5."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Only one Raspberry Pi 5 Power Monitor entry is supported per HA instance.",
+      "already_configured": "Only one Raspberry Pi 5 Power Monitor entry is supported per HA instance."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Raspberry Pi 5 Power Monitor options",
+        "data": {
+          "scan_interval": "Poll interval (seconds)"
+        },
+        "data_description": {
+          "scan_interval": "How often to run vcgencmd and refresh every sensor. 30s is a reasonable default."
+        }
+      }
+    }
+  }
+}
