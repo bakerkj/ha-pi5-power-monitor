@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- chip body -->
+  <rect x="40" y="40" width="176" height="176" rx="18" fill="#242833"/>
+
+  <!-- IC pins: top -->
+  <rect x="68"  y="24" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="98"  y="24" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="128" y="24" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="158" y="24" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="188" y="24" width="12" height="20" rx="3" fill="#8a8f9c"/>
+
+  <!-- IC pins: bottom -->
+  <rect x="68"  y="212" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="98"  y="212" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="128" y="212" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="158" y="212" width="12" height="20" rx="3" fill="#8a8f9c"/>
+  <rect x="188" y="212" width="12" height="20" rx="3" fill="#8a8f9c"/>
+
+  <!-- IC pins: left -->
+  <rect x="24" y="68"  width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="24" y="98"  width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="24" y="128" width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="24" y="158" width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="24" y="188" width="20" height="12" rx="3" fill="#8a8f9c"/>
+
+  <!-- IC pins: right -->
+  <rect x="212" y="68"  width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="212" y="98"  width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="212" y="128" width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="212" y="158" width="20" height="12" rx="3" fill="#8a8f9c"/>
+  <rect x="212" y="188" width="20" height="12" rx="3" fill="#8a8f9c"/>
+
+  <!-- pin-1 dot -->
+  <circle cx="60" cy="60" r="5" fill="#ff5252"/>
+
+  <!-- lightning bolt (filled polygon, no gradient) -->
+  <polygon points="152,60 92,142 128,142 104,196 164,114 128,114" fill="#ffc83d"/>
+</svg>
