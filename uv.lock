@@ -1024,7 +1024,7 @@ wheels = [
 
 [[package]]
 name = "ha-pi5-power-monitor"
-version = "0.0.2"
+version = "0.0.3"
 source = { virtual = "." }
 
 [package.dev-dependencies]
