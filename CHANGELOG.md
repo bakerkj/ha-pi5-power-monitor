@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.0.3](https://github.com/bakerkj/ha-pi5-power-monitor/compare/v0.0.2...v0.0.3) (2026-10-16)
+
+
+### Miscellaneous Chores
+
+* **deps:** update anthropics/claude-code-action action to v1.0.244 ([#9](https://github.com/bakerkj/ha-pi5-power-monitor/issues/9)) ([d6f029f](https://github.com/bakerkj/ha-pi5-power-monitor/commit/d6f029fde9cf6a7ae26b44e85d8d5d343daeeb4c))
+* **deps:** update dependency uv to v0.12.23 ([#6](https://github.com/bakerkj/ha-pi5-power-monitor/issues/6)) ([40eb1a2](https://github.com/bakerkj/ha-pi5-power-monitor/commit/40eb1a29aa1b633e90994f81d2222aebdb9bfdf7))
+* **deps:** update dependency uv to v0.13.0 ([#12](https://github.com/bakerkj/ha-pi5-power-monitor/issues/12)) ([58c6532](https://github.com/bakerkj/ha-pi5-power-monitor/commit/58c6532a8d4a785d280edad7fec2cf486906ff93))
+* **deps:** update dependency uv to v0.13.1 ([#16](https://github.com/bakerkj/ha-pi5-power-monitor/issues/16)) ([1b91031](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1b91031cee30fd12e516c7cba2d12d0fa9dce542))
+* **deps:** update github-actions ([#10](https://github.com/bakerkj/ha-pi5-power-monitor/issues/10)) ([aa44109](https://github.com/bakerkj/ha-pi5-power-monitor/commit/aa44109d0b936fef135204df7b0d44ece58d609d))
+* **deps:** update github-actions ([#18](https://github.com/bakerkj/ha-pi5-power-monitor/issues/18)) ([3bbedad](https://github.com/bakerkj/ha-pi5-power-monitor/commit/3bbedad1e77f25b6212a18d803560bfb61c2f338))
+* **deps:** update github-actions ([#7](https://github.com/bakerkj/ha-pi5-power-monitor/issues/7)) ([4010290](https://github.com/bakerkj/ha-pi5-power-monitor/commit/4010290497dd2c1bef2ccd3b0a12983888cd7e04))
+* **deps:** update pre-commit hook astral-sh/ruff-pre-commit to v0.17.0 ([#11](https://github.com/bakerkj/ha-pi5-power-monitor/issues/11)) ([356857e](https://github.com/bakerkj/ha-pi5-power-monitor/commit/356857e3134aeebd96e890e87e0e4babd835dcc8))
+* **deps:** update pre-commit hook astral-sh/ruff-pre-commit to v0.17.1 ([#17](https://github.com/bakerkj/ha-pi5-power-monitor/issues/17)) ([1298a81](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1298a814a6f720255f735d5940b732b3bcfbc53d))
+* **deps:** update pre-commit hook rbubley/mirrors-prettier to v3.9.10 ([#14](https://github.com/bakerkj/ha-pi5-power-monitor/issues/14)) ([8b04b66](https://github.com/bakerkj/ha-pi5-power-monitor/commit/8b04b66b835f8f518096b16c982ab177cd24ca4e))
+
+
+### Continuous Integration
+
+* **claude:** gate on-demand [@claude](https://github.com/claude) workflow to repo owner ([#13](https://github.com/bakerkj/ha-pi5-power-monitor/issues/13)) ([1be3338](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1be3338f1888b93bf38b0f14344e3e2cddf2eba1))
+
 ## [0.0.2](https://github.com/bakerkj/ha-pi5-power-monitor/compare/v0.0.1...v0.0.2) (2026-10-02)
 
 
