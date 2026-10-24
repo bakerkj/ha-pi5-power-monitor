@@ -11,5 +11,5 @@
   "issue_tracker": "https://github.com/bakerkj/ha-pi5-power-monitor/issues",
   "requirements": [],
   "single_config_entry": true,
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
