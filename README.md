@@ -26,7 +26,7 @@ individual rails from the device page as needed.
   (`/dev/vcio`) and the `vcgencmd` binary are already present inside the HA
   container on HAOS — no extra add-on, device mounts, or shell plumbing
   required.
-- Home Assistant 2026.9 or newer.
+- Home Assistant 2026.10 or newer.
 
 ## Install
 
