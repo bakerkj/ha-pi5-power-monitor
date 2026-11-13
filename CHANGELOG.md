@@ -1,5 +1,63 @@
 # Changelog
 
+## [0.0.3](https://github.com/bakerkj/ha-pi5-power-monitor/compare/v0.0.2...v0.0.3) (2026-11-13)
+
+
+### Bug Fixes
+
+* **deps:** pin the HA test plugin so the locked HA tracks releases ([#28](https://github.com/bakerkj/ha-pi5-power-monitor/issues/28)) ([7883aef](https://github.com/bakerkj/ha-pi5-power-monitor/commit/7883aef5b6c603a0792c223fff607f7dc60e91a8))
+
+
+### Miscellaneous Chores
+
+* **ci:** standardize uv usage across workflows ([#27](https://github.com/bakerkj/ha-pi5-power-monitor/issues/27)) ([906ed00](https://github.com/bakerkj/ha-pi5-power-monitor/commit/906ed008b2269286ff129a2941cf7c09412e063f))
+* **deps:** lock file maintenance ([#32](https://github.com/bakerkj/ha-pi5-power-monitor/issues/32)) ([bb0ffa2](https://github.com/bakerkj/ha-pi5-power-monitor/commit/bb0ffa2bb09615a8e3f51f953ec673771725147e))
+* **deps:** lock file maintenance ([#36](https://github.com/bakerkj/ha-pi5-power-monitor/issues/36)) ([fda292b](https://github.com/bakerkj/ha-pi5-power-monitor/commit/fda292bf3416e6cea5add81b875ed3b90ee735ba))
+* **deps:** lock file maintenance ([#37](https://github.com/bakerkj/ha-pi5-power-monitor/issues/37)) ([1afb187](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1afb18707249f6f8ac4e6105eee376699a727c90))
+* **deps:** lock file maintenance ([#38](https://github.com/bakerkj/ha-pi5-power-monitor/issues/38)) ([ffc2254](https://github.com/bakerkj/ha-pi5-power-monitor/commit/ffc22546aa9134acb927020d77f882b3783480e3))
+* **deps:** lock file maintenance ([#42](https://github.com/bakerkj/ha-pi5-power-monitor/issues/42)) ([1083691](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1083691fba771b634dae9852104b57d8de19cdcb))
+* **deps:** lock file maintenance ([#44](https://github.com/bakerkj/ha-pi5-power-monitor/issues/44)) ([ba9e129](https://github.com/bakerkj/ha-pi5-power-monitor/commit/ba9e12966dc37bc2de8a53f3363b36913892b46e))
+* **deps:** lock file maintenance ([#49](https://github.com/bakerkj/ha-pi5-power-monitor/issues/49)) ([7adf057](https://github.com/bakerkj/ha-pi5-power-monitor/commit/7adf057358d7900490eac78ef4c8addf0c661dc2))
+* **deps:** lock file maintenance ([#51](https://github.com/bakerkj/ha-pi5-power-monitor/issues/51)) ([aec7ef7](https://github.com/bakerkj/ha-pi5-power-monitor/commit/aec7ef7619cf124ce94f3fb6ee5b9acf8075b108))
+* **deps:** update anthropics/claude-code-action action to v1.0.244 ([#9](https://github.com/bakerkj/ha-pi5-power-monitor/issues/9)) ([d6f029f](https://github.com/bakerkj/ha-pi5-power-monitor/commit/d6f029fde9cf6a7ae26b44e85d8d5d343daeeb4c))
+* **deps:** update anthropics/claude-code-action action to v1.0.255 ([#23](https://github.com/bakerkj/ha-pi5-power-monitor/issues/23)) ([5a91b93](https://github.com/bakerkj/ha-pi5-power-monitor/commit/5a91b933714ca0ac8d6a7906a6583f914bb9413c))
+* **deps:** update anthropics/claude-code-action action to v1.0.263 ([#33](https://github.com/bakerkj/ha-pi5-power-monitor/issues/33)) ([5169461](https://github.com/bakerkj/ha-pi5-power-monitor/commit/5169461bf81612e3d786240242a631ae0420b3b3))
+* **deps:** update anthropics/claude-code-action action to v1.0.267 ([#40](https://github.com/bakerkj/ha-pi5-power-monitor/issues/40)) ([40075ee](https://github.com/bakerkj/ha-pi5-power-monitor/commit/40075ee704b849284aaf1aa96c95bbfdd375c5b8))
+* **deps:** update anthropics/claude-code-action action to v1.0.271 ([#46](https://github.com/bakerkj/ha-pi5-power-monitor/issues/46)) ([6149428](https://github.com/bakerkj/ha-pi5-power-monitor/commit/61494286bc5af1351c76a1bac5d72fb6622fece9))
+* **deps:** update dependency uv to v0.12.23 ([#6](https://github.com/bakerkj/ha-pi5-power-monitor/issues/6)) ([40eb1a2](https://github.com/bakerkj/ha-pi5-power-monitor/commit/40eb1a29aa1b633e90994f81d2222aebdb9bfdf7))
+* **deps:** update dependency uv to v0.13.0 ([#12](https://github.com/bakerkj/ha-pi5-power-monitor/issues/12)) ([58c6532](https://github.com/bakerkj/ha-pi5-power-monitor/commit/58c6532a8d4a785d280edad7fec2cf486906ff93))
+* **deps:** update dependency uv to v0.13.1 ([#16](https://github.com/bakerkj/ha-pi5-power-monitor/issues/16)) ([1b91031](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1b91031cee30fd12e516c7cba2d12d0fa9dce542))
+* **deps:** update dependency uv to v0.13.3 ([#19](https://github.com/bakerkj/ha-pi5-power-monitor/issues/19)) ([accae35](https://github.com/bakerkj/ha-pi5-power-monitor/commit/accae3520f66a0022c0e343d23db3a79325a3e1d))
+* **deps:** update dependency uv to v0.13.4 ([#22](https://github.com/bakerkj/ha-pi5-power-monitor/issues/22)) ([c130b05](https://github.com/bakerkj/ha-pi5-power-monitor/commit/c130b051a00fb021e44e60b78de07f27150e7be8))
+* **deps:** update dependency uv to v0.13.5 ([#24](https://github.com/bakerkj/ha-pi5-power-monitor/issues/24)) ([b1074d4](https://github.com/bakerkj/ha-pi5-power-monitor/commit/b1074d4de9f408b45d183ca9a1d83f0f81fa9a3e))
+* **deps:** update dependency uv to v0.13.6 ([#34](https://github.com/bakerkj/ha-pi5-power-monitor/issues/34)) ([4055555](https://github.com/bakerkj/ha-pi5-power-monitor/commit/40555558c6cd3c056528a35e026acd2b7f2eaac3))
+* **deps:** update dependency uv to v0.13.7 ([#41](https://github.com/bakerkj/ha-pi5-power-monitor/issues/41)) ([72c3249](https://github.com/bakerkj/ha-pi5-power-monitor/commit/72c324909947400ebab20e1b726288fcb87f47e9))
+* **deps:** update dependency uv to v0.13.8 ([#50](https://github.com/bakerkj/ha-pi5-power-monitor/issues/50)) ([7ed889b](https://github.com/bakerkj/ha-pi5-power-monitor/commit/7ed889b9745b8c22be4e37cb4c3275955278b660))
+* **deps:** update github-actions ([#10](https://github.com/bakerkj/ha-pi5-power-monitor/issues/10)) ([aa44109](https://github.com/bakerkj/ha-pi5-power-monitor/commit/aa44109d0b936fef135204df7b0d44ece58d609d))
+* **deps:** update github-actions ([#18](https://github.com/bakerkj/ha-pi5-power-monitor/issues/18)) ([3bbedad](https://github.com/bakerkj/ha-pi5-power-monitor/commit/3bbedad1e77f25b6212a18d803560bfb61c2f338))
+* **deps:** update github-actions ([#20](https://github.com/bakerkj/ha-pi5-power-monitor/issues/20)) ([681f762](https://github.com/bakerkj/ha-pi5-power-monitor/commit/681f762ef902fef4c606856898519c45d5b74c07))
+* **deps:** update github-actions ([#29](https://github.com/bakerkj/ha-pi5-power-monitor/issues/29)) ([d8d7c6e](https://github.com/bakerkj/ha-pi5-power-monitor/commit/d8d7c6e90c154c4d59f8e3cf6d0ecca0f881f7e6))
+* **deps:** update github-actions ([#31](https://github.com/bakerkj/ha-pi5-power-monitor/issues/31)) ([09cfb3b](https://github.com/bakerkj/ha-pi5-power-monitor/commit/09cfb3b1d29c504ea62b592aa1ed550401607f3e))
+* **deps:** update github-actions ([#39](https://github.com/bakerkj/ha-pi5-power-monitor/issues/39)) ([f1e3a8b](https://github.com/bakerkj/ha-pi5-power-monitor/commit/f1e3a8b394aa40aa00e0bac27932bae236de5d2c))
+* **deps:** update github-actions ([#43](https://github.com/bakerkj/ha-pi5-power-monitor/issues/43)) ([7010ba2](https://github.com/bakerkj/ha-pi5-power-monitor/commit/7010ba22cc9657f15cf25025939aa141d0372ed8))
+* **deps:** update github-actions ([#7](https://github.com/bakerkj/ha-pi5-power-monitor/issues/7)) ([4010290](https://github.com/bakerkj/ha-pi5-power-monitor/commit/4010290497dd2c1bef2ccd3b0a12983888cd7e04))
+* **deps:** update j178/prek-action action to v3.1.0 ([#21](https://github.com/bakerkj/ha-pi5-power-monitor/issues/21)) ([069b7cc](https://github.com/bakerkj/ha-pi5-power-monitor/commit/069b7ccdab29c6f84d8398d705d02b3b799ff576))
+* **deps:** update pre-commit hook astral-sh/ruff-pre-commit to v0.17.0 ([#11](https://github.com/bakerkj/ha-pi5-power-monitor/issues/11)) ([356857e](https://github.com/bakerkj/ha-pi5-power-monitor/commit/356857e3134aeebd96e890e87e0e4babd835dcc8))
+* **deps:** update pre-commit hook astral-sh/ruff-pre-commit to v0.17.1 ([#17](https://github.com/bakerkj/ha-pi5-power-monitor/issues/17)) ([1298a81](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1298a814a6f720255f735d5940b732b3bcfbc53d))
+* **deps:** update pre-commit hook astral-sh/ruff-pre-commit to v0.17.2 ([#25](https://github.com/bakerkj/ha-pi5-power-monitor/issues/25)) ([4b575eb](https://github.com/bakerkj/ha-pi5-power-monitor/commit/4b575eb2b4b5ec328a50fe0dc01075cdeb979cff))
+* **deps:** update pre-commit hook astral-sh/ruff-pre-commit to v0.17.4 ([#45](https://github.com/bakerkj/ha-pi5-power-monitor/issues/45)) ([c952c98](https://github.com/bakerkj/ha-pi5-power-monitor/commit/c952c983d9294a13a538754b21d18dc46063c19a))
+* **deps:** update pre-commit hook kjanat/actionlint to v1.17.1 ([#47](https://github.com/bakerkj/ha-pi5-power-monitor/issues/47)) ([cc19399](https://github.com/bakerkj/ha-pi5-power-monitor/commit/cc19399667596ac96fa76f56b0f55d3d5af6569f))
+* **deps:** update pre-commit hook rbubley/mirrors-prettier to v3.9.10 ([#14](https://github.com/bakerkj/ha-pi5-power-monitor/issues/14)) ([8b04b66](https://github.com/bakerkj/ha-pi5-power-monitor/commit/8b04b66b835f8f518096b16c982ab177cd24ca4e))
+* **deps:** update pre-commit hooks ([#35](https://github.com/bakerkj/ha-pi5-power-monitor/issues/35)) ([c915efc](https://github.com/bakerkj/ha-pi5-power-monitor/commit/c915efcb5b45cab1469d637cca7584817a1901ed))
+* **deps:** update pre-commit hooks ([#48](https://github.com/bakerkj/ha-pi5-power-monitor/issues/48)) ([f03c8cf](https://github.com/bakerkj/ha-pi5-power-monitor/commit/f03c8cf0784c1bf3955e28367b7130ad9a20cd4c))
+* **renovate:** automerge lockFileMaintenance ([#30](https://github.com/bakerkj/ha-pi5-power-monitor/issues/30)) ([28f5072](https://github.com/bakerkj/ha-pi5-power-monitor/commit/28f50729c9211c0ae30b17e2cfbd9afbf6a5e0a9))
+* **renovate:** enable lockFileMaintenance (manual review) ([#26](https://github.com/bakerkj/ha-pi5-power-monitor/issues/26)) ([a81c0e8](https://github.com/bakerkj/ha-pi5-power-monitor/commit/a81c0e8a4e5a248e02f3155a46a01105f2c72ba9))
+
+
+### Continuous Integration
+
+* **claude:** gate on-demand [@claude](https://github.com/claude) workflow to repo owner ([#13](https://github.com/bakerkj/ha-pi5-power-monitor/issues/13)) ([1be3338](https://github.com/bakerkj/ha-pi5-power-monitor/commit/1be3338f1888b93bf38b0f14344e3e2cddf2eba1))
+
 ## [0.0.2](https://github.com/bakerkj/ha-pi5-power-monitor/compare/v0.0.1...v0.0.2) (2026-10-02)
 
 
